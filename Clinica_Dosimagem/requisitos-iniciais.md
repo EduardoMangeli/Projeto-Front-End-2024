@@ -17,7 +17,6 @@
    - Deve haver uma atenção especial para o uso de cores, tipografia e elementos visuais para criar uma experiência atraente para o usuário.
      
 ## Requisitos Não Funcionais:
-<<<<<<< HEAD
 
 RNF1. **O sistema deve possuir bom desempenho:**
    - A aplicação deve carregar rapidamente, garantindo uma experiência de usuário fluida e sem atrasos perceptíveis.
@@ -48,6 +47,4 @@ RNF7. **O sistema deve ser suficientemente seguro:**
    - Deve seguir as normas ISO/IEC 27001
    - As informações dos pacientes e quaisquer dados sensíveis devem ser protegidos por medidas de segurança adequadas, como criptografia de dados e autenticação de usuário.
    - Por exemplo, utilizar as últimas versões das ferramentas de desenvolvimento e prevenir SQL Injection nas entradas de dados para que o Front-End contribua na segurança do sistema como um todo.
-=======
 
->>>>>>> fee6f9f38eabccc8ec146bd31cbde21e78e07816
